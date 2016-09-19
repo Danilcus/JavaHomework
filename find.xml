@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[JavaHomework] - ...\Lab1(sorting)\source.java'" />
-    <option name="defaultScopeName" value="File '[JavaHomework] - ...\Lab1(sorting)\source.java'" />
-    <option name="SEARCH_SCOPE" value="File '[JavaHomework] - ...\Lab1(sorting)\source.java'" />
+    <option name="customScope" value="Project 'sort'" />
+    <option name="defaultScopeName" value="Project 'sort'" />
+    <option name="SEARCH_SCOPE" value="Project 'sort'" />
   </component>
 </application>
