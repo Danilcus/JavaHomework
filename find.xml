@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'sort'" />
-    <option name="defaultScopeName" value="Project 'sort'" />
+    <option name="customScope" value="Project 'WeatherApp'" />
+    <option name="defaultScopeName" value="Project 'WeatherApp'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'sort'" />
+    <option name="SEARCH_SCOPE" value="Project 'WeatherApp'" />
   </component>
 </application>
