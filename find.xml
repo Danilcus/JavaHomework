@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'WeatherApp'" />
-    <option name="defaultScopeName" value="Project 'WeatherApp'" />
+    <option name="customScope" value="File '...\libs\ForecastIOLib-1.5.2-jar-with-dependencies.jar!\com\github\dvdme\ForecastIOLib\ForecastIO.class'" />
+    <option name="defaultScopeName" value="File '...\libs\ForecastIOLib-1.5.2-jar-with-dependencies.jar!\com\github\dvdme\ForecastIOLib\ForecastIO.class'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'WeatherApp'" />
+    <option name="SEARCH_SCOPE" value="File '...\libs\ForecastIOLib-1.5.2-jar-with-dependencies.jar!\com\github\dvdme\ForecastIOLib\ForecastIO.class'" />
   </component>
 </application>
